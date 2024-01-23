@@ -29,7 +29,7 @@ Currency Rate - это приложение на базе Django, предназ
 1. **Клонирование репозитория**
 
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/Abdunazarov/currency_rate.git
    cd currency_rate
    ```
 
